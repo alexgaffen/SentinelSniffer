@@ -11,3 +11,6 @@ __pycache__/
 # IDEs
 .vscode/
 .idea/
+
+# Rust
+target/
